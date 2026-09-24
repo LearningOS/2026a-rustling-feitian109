@@ -2,7 +2,7 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-feitian109",
-  "commit": "d66e1bdbf4b905e2eed889987684c3f5f7380b30",
+  "commit": "06a41c91465b7ed58f17c8c26df3f9c251a836a7",
   "score": 91,
   "totalScore": 110,
   "exercises": [
@@ -778,9 +778,9 @@
     }
   ],
   "student": "feitian109",
-  "runId": "36018587629",
+  "runId": "36019327853",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
